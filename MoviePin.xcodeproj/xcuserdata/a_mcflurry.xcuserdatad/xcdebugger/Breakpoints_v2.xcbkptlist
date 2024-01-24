@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7F5C669C-B195-4C55-ADDA-E778F615D55C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "90D8F340-272F-4B2C-96CF-581C83C304C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviePin/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "checkCurrentLocationAuth(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1210C8AF-8453-4C25-B2AA-8775F6B246BC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviePin/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "checkCurrentLocationAuth(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1210C8AF-8453-4C25-B2AA-8775F6B246BC - 61d272a1ad544f08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePin.MoviePinViewController.checkCurrentLocationAuth(__C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "MoviePin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a_mcflurry/Documents/Xcode/SeSAC-iOS/ignore/MoviePin/MoviePin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "1210C8AF-8453-4C25-B2AA-8775F6B246BC - 61d272a1ad544f08"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MoviePin.MoviePinViewController.checkCurrentLocationAuth(__C.CLAuthorizationStatus) -&gt; ()"
+                  moduleName = "MoviePin"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/a_mcflurry/Documents/Xcode/SeSAC-iOS/ignore/MoviePin/MoviePin/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "172">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C4067CB-C0BF-45F8-A592-A0CB92A232A4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MoviePin/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "checkDeviceLocationAuth()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
